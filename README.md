@@ -1,4 +1,4 @@
-# Angular basic
+# Angular basic Updated to Version 16
 
 [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [Angular](https://angular.io/) apps in minutes. Use this repo with the [Angular quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=angular) to build and customize a new static site.
 
@@ -53,3 +53,9 @@ npm run swa:login
 ```bash
 npm run swa:deploy
 ```
+
+# Source of tutorial
+[Tutorial: Deploy an Angular app on Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-angular?pivots=github)
+
+# References
+[Node Install](https://github.com/nodesource/distributions/blob/master/README.md)
